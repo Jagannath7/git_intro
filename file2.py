@@ -1,4 +1,6 @@
 def great(name):
-    print('hello', name)
+    print('knock knock knock', name)
+    print('knock knock knock', name)
+    print('knock knock knock', name)
 
 great('jj')
